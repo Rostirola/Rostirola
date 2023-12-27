@@ -7,7 +7,7 @@
 [![Blog](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://rostirola.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rostirola-246695222/)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rostirola&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Juan Rostirola github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rostirola&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rostirola&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Juan Rostirola github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rostirola&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### Techs
